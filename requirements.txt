@@ -8,3 +8,4 @@ xgboost
 Flask
 gunicorn
 dill
+pytest
